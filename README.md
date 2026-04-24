@@ -15,8 +15,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oluwagbemileke-adesiyan-8b2238272)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gbemilekeadesiyan@gmail.com)
-[![BPIA](https://img.shields.io/badge/BPIA_Member-1a1a2e?style=for-the-badge)](https://bpia.org)
-
 </div>
 
 ---
@@ -105,19 +103,7 @@ Delivered a **Security Improvement Report** with risk insights, documentation, a
 
 </div>
 
----
 
-## Highlights
-
-```
-🏆  3rd / 50   Mind Storms Pitch Competition — Epiphany
-🌍  Top Delegate   Prince's Trust Youth Summit 2022 — Nigeria
-🎓  Livingstone College   Computer Information Science — Class of 2028
-🤝  BPIA Member   Black Professionals in International Affairs
-🎵  Academic Rep   African Music Society — Founding Member
-```
-
----
 
 <div align="center">
 
