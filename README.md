@@ -13,7 +13,7 @@
 
 *Building systems that work in Lagos, Kigali, and everywhere in between.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samuel-adesiyan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oluwagbemileke-adesiyan-8b2238272)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gbemilekeadesiyan@gmail.com)
 [![BPIA](https://img.shields.io/badge/BPIA_Member-1a1a2e?style=for-the-badge)](https://bpia.org)
 
@@ -65,12 +65,23 @@ A production-ready Flask API built for the MLH Production Engineering Hackathon.
 
 ---
 
-### 🌍 [Epiphany — Rwanda Community Super-App](https://github.com/gbemilekeadesiyan-a11y)
-> *3rd place out of 50 teams at pitch competition · Mind Storms Think Tank*
+### 🌍 [Epiphany — Rwanda Community Super-App](https://github.com/gbemilekeadesiyan-a11y/epiphany-rw-connect)
+> *3rd place out of 50 teams at pitch competition · Mind Storms Think Tank · Live on Vercel*
 
-A community super-app designed for Rwanda covering mobility, delivery, tourism, and payments. Built from the ground up with local infrastructure constraints in mind.
+A community super-app designed for Rwanda covering mobility, delivery, tourism, and payments. Built from the ground up with local infrastructure constraints in mind — serving users across Kigali and beyond.
 
-`Python` `React` `PostgreSQL` `Community Impact`
+`React` `TypeScript` `Supabase` `PostgreSQL` `Tailwind CSS` `Vite` `Vercel`
+
+---
+
+### 🔐 [Hydroficient IoT Cyber Defense Externship](https://github.com/gbemilekeadesiyan-a11y/Externship-Hydroficient-Cybersecurity-Lessons)
+> *Extern.com · IoT Cybersecurity · Attacker → Defender*
+
+Placed as a cybersecurity engineer protecting a live IoT smart water management platform. Intercepted unprotected data streams, spoofed device commands, and identified real vulnerabilities — then switched sides to encrypt pipelines, lock down device access, and build AI-driven anomaly detection.
+
+Delivered a **Security Improvement Report** with risk insights, documentation, and design recommendations for production use.
+
+`Python` `MQTT` `IoT Security` `Encryption` `AI Anomaly Detection` `Cybersecurity`
 
 ---
 
@@ -79,7 +90,7 @@ A community super-app designed for Rwanda covering mobility, delivery, tourism, 
 - 📚 Freshman @ Livingstone College — Computer Information Science
 - 🔨 Building production engineering skills through MLH hackathons
 - 🌱 Learning Docker, cloud deployment, and distributed systems
-- 🎯 Targeting Summer 2025 fellowships and internships
+- 🎯 Targeting Summer 2026 fellowships and internships
 - 🎵 Academic Representative — African Music Society
 
 ---
