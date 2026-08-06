@@ -45,7 +45,25 @@ samuel = {
 
 ---
 
-## Featured Projects
+## Featured Projects 
+
+### 🗳️ [dēmos — Consensus & Voting Platform]([ADD_YOUR_REPO_URL_HERE](https://github.com/gbemilekeadesiyan-a11y/Demos))
+> *"Where consensus finds its voice." · Frontend Lead · In active development*
+ 
+A workspace-based platform for groups that have to decide something together — a company running leadership elections, or a family deciding where to eat. Admins open public or private sessions, control exactly who can see and vote, and release results in whatever format the decision calls for.
+ 
+I lead the React frontend on an all-coder team, building against API contracts agreed with backend so both sides ship in parallel instead of waiting on each other.
+ 
+- **Slack-style workspaces** with member roles, invite codes, and admin-configurable permissions
+- **Public and private sessions** moving through a Draft → Open → Closed → Results Released lifecycle
+- **Granular access control** — admins grant voting rights by individual, department, or entire workspace
+- **Configurable result presentation** — bar, pie, or leaderboard, with a signature custom template in progress
+- **QR code and link sharing** with code-gated entry for private sessions
+- **Glassmorphic dark UI** — frosted cards, backdrop blur, glowing borders
+`React` `JavaScript` `Vite` `Node.js` `Figma` `Oxlint`
+ 
+---
+
 
 ### 🔗 [MLH PE Hackathon 2026](https://github.com/pk504b/mlh-pe-hackathon-2026)
 > *Production Engineering Hackathon — URL Shortener API built to survive production*
