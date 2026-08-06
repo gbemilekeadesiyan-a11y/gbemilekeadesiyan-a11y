@@ -47,7 +47,7 @@ samuel = {
 
 ## Featured Projects 
 
-### 🗳️ [dēmos — Consensus & Voting Platform]([ADD_YOUR_REPO_URL_HERE](https://github.com/gbemilekeadesiyan-a11y/Demos))
+### 🗳️ [dēmos — Consensus & Voting Platform](https://github.com/gbemilekeadesiyan-a11y/Demos)
 > *"Where consensus finds its voice." · Frontend Lead · In active development*
  
 A workspace-based platform for groups that have to decide something together — a company running leadership elections, or a family deciding where to eat. Admins open public or private sessions, control exactly who can see and vote, and release results in whatever format the decision calls for.
