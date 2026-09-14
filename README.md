@@ -98,20 +98,6 @@ I like problems that sit where infrastructure meets people. Most of what I build
 
 <br>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gbemilekeadesiyan-a11y&theme=github_dark" height="190" alt="Repos per language">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gbemilekeadesiyan-a11y&theme=github_dark" height="190" alt="Most committed language">
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gbemilekeadesiyan-a11y&theme=github_dark" height="190" alt="Contribution stats">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gbemilekeadesiyan-a11y&theme=github_dark&utcOffset=-4" height="190" alt="Productive time">
-</div>
-
-<br>
-
 <!-- ═══════════════════════ SNAKE ═══════════════════════ -->
 <h2 align="center">Contribution Snake</h2>
 
