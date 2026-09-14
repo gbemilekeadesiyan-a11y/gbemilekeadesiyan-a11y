@@ -90,14 +90,6 @@ I like problems that sit where infrastructure meets people. Most of what I build
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gbemilekeadesiyan-a11y&hide_border=true&background=0D1117&stroke=10B981&ring=2DD4BF&fire=34D399&currStreakLabel=2DD4BF&sideLabels=A7F3D0&currStreakNum=F0FDFA&sideNums=F0FDFA&dates=5EEAD4" height="180" alt="GitHub streak">
 </div>
 
-<br>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gbemilekeadesiyan-a11y&theme=github_dark" width="92%" alt="Profile summary">
-</div>
-
-<br>
-
 <!-- ═══════════════════════ SNAKE ═══════════════════════ -->
 <h2 align="center">Contribution Snake</h2>
 
