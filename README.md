@@ -59,9 +59,9 @@ I like problems that sit where infrastructure meets people. Most of what I build
 
   </td>
     <td width="35%" valign="top" align="center">
-      <img src="https://raw.githubusercontent.com/gbemilekeadesiyan-a11y/gbemilekeadesiyan-a11y/main/assets/profile.png" width="100%" alt="Samuel Adesiyan">
+      <img src="https://raw.githubusercontent.com/gbemilekeadesiyan-a11y/gbemilekeadesiyan-a11y/main/Headshot.jpg" width="100%" alt="Samuel Adesiyan">
       <br>
-      <sub><i>Swap this for a photo or illustration of your own. Drop it at <code>assets/profile.png</code> in this repo.</i></sub>
+      <sub><i>yo</i></sub>
     </td>
   </tr>
 </table>
