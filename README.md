@@ -1,4 +1,4 @@
-<!-- ═══════════════════════ BANNER ═══════════════════════ -->
+![Header](./github-header-banner.png)
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,50:10B981,100:2DD4BF&height=220&section=header&text=Oluwagbemileke%20Samuel%20Adesiyan&fontSize=40&fontColor=F0FDFA&fontAlignY=32&desc=Computer%20Information%20Science%20%7C%20Security%20%7C%20Cloud%20%7C%20AI&descSize=16&descAlignY=52&animation=fadeIn">
