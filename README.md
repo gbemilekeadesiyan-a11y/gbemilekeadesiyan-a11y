@@ -127,13 +127,13 @@ I like problems that sit where infrastructure meets people. Most of what I build
 <h2 align="center">Let's Connect</h2>
 
 <div align="center">
-  <a href="https://linkedin.com/in/[YOUR_LINKEDIN]">
+  <a href="https://linkedin.com/in/www.linkedin.com/in/oluwagbemileke-adesiyan-8b2238272">
     <img src="https://img.shields.io/badge/LinkedIn-0F766E?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://x.com/[YOUR_X_HANDLE]">
     <img src="https://img.shields.io/badge/X-134E4A?style=for-the-badge&logo=x&logoColor=white" alt="X">
   </a>
-  <a href="https://instagram.com/[YOUR_INSTAGRAM]">
+  <a href="https://instagram.com/uwannabe_desh">
     <img src="https://img.shields.io/badge/Instagram-10B981?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
   <a href="https://tiktok.com/@[YOUR_TIKTOK]">
