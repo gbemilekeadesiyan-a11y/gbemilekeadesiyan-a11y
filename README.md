@@ -1,4 +1,3 @@
-<img src="./banner-A-centered.png" width="100%" alt="Samuel Adesiyan">
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,50:10B981,100:2DD4BF&height=220&section=header&text=Oluwagbemileke%20Samuel%20Adesiyan&fontSize=40&fontColor=F0FDFA&fontAlignY=32&desc=Computer%20Information%20Science%20%7C%20Security%20%7C%20Cloud%20%7C%20AI&descSize=16&descAlignY=52&animation=fadeIn">
@@ -6,6 +5,7 @@
     <img alt="Samuel Adesiyan banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,50:10B981,100:2DD4BF&height=220&section=header&text=Oluwagbemileke%20Samuel%20Adesiyan&fontSize=40&fontColor=F0FDFA&fontAlignY=32&desc=Computer%20Information%20Science%20%7C%20Security%20%7C%20Cloud%20%7C%20AI&descSize=16&descAlignY=52&animation=fadeIn">
   </picture>
 </div>
+
 
 <br>
 
@@ -48,14 +48,13 @@ I'm a Computer Information Science major at **Livingstone College**, originally 
 
 I like problems that sit where infrastructure meets people. Most of what I build comes from noticing something broken in a place I've lived and deciding to take a run at it.
 
-- Building **Epiphany**, a super-app for Rwanda covering tourism, events, mobility, payments and marketplace
-- Building **dēmos**, a workspace-based consensus and voting platform
-- Ran a **cybersecurity externship with Hydroficient**, using Isolation Forest for anomaly detection on sensor data
+- Building **[Epiphany](https://github.com/gbemilekeadesiyan-a11y/epiphany-rw-connect)**, a super-app for Rwanda covering tourism, events, mobility, payments and marketplace &nbsp;[![live](https://img.shields.io/badge/live-10B981?style=flat-square&logoColor=white)](https://epiphany-rw-connect.lovable.app)
+- Building **[dēmos](https://github.com/gbemilekeadesiyan-a11y/Demos)**, a workspace-based consensus and voting platform
+- Built **[GbemiShield](https://github.com/gbemilekeadesiyan-a11y/-grand-marina-iot-security)** on a **cybersecurity externship with Hydroficient**, using Isolation Forest for anomaly detection on sensor data
+- Wrote a **[personal finance manager](https://github.com/gbemilekeadesiyan-a11y/Finance_Tracker_New)** and **[Uni Parent](https://github.com/gbemilekeadesiyan-a11y/Uni-Parent)**, a zero-dependency student day planner
 - Certified in **AWS** and **Python & Data Science (University of Michigan)**, with **CompTIA Security+** in progress
 - Alum of **CodePath** and the **MLH Production Engineering Hackathon**
 - Off-screen: guitar, long arguments about philosophy and theology, and photo editing I've been doing since middle school
-
-> Currently looking for **summer internships** in software, cloud, or security engineering.
 
   </td>
     <td width="35%" valign="top" align="center">
