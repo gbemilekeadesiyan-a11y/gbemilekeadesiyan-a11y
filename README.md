@@ -87,14 +87,27 @@ I like problems that sit where infrastructure meets people. Most of what I build
 <h2 align="center">GitHub Activity</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gbemilekeadesiyan-a11y&show_icons=true&hide_border=true&bg_color=0D1117&title_color=2DD4BF&icon_color=34D399&text_color=A7F3D0&ring_color=10B981&cache_seconds=1800" height="170" alt="GitHub stats">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=gbemilekeadesiyan-a11y&hide_border=true&background=0D1117&stroke=10B981&ring=2DD4BF&fire=34D399&currStreakLabel=2DD4BF&sideLabels=A7F3D0&currStreakNum=F0FDFA&sideNums=F0FDFA&dates=5EEAD4" height="170" alt="GitHub streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gbemilekeadesiyan-a11y&hide_border=true&background=0D1117&stroke=10B981&ring=2DD4BF&fire=34D399&currStreakLabel=2DD4BF&sideLabels=A7F3D0&currStreakNum=F0FDFA&sideNums=F0FDFA&dates=5EEAD4" height="180" alt="GitHub streak">
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gbemilekeadesiyan-a11y&bg_color=0D1117&color=2DD4BF&line=10B981&point=A7F3D0&area=true&hide_border=true" width="95%" alt="Contribution activity graph">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gbemilekeadesiyan-a11y&theme=github_dark" width="92%" alt="Profile summary">
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gbemilekeadesiyan-a11y&theme=github_dark" height="190" alt="Repos per language">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gbemilekeadesiyan-a11y&theme=github_dark" height="190" alt="Most committed language">
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gbemilekeadesiyan-a11y&theme=github_dark" height="190" alt="Contribution stats">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gbemilekeadesiyan-a11y&theme=github_dark&utcOffset=-4" height="190" alt="Productive time">
 </div>
 
 <br>
