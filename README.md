@@ -1,123 +1,161 @@
+<!-- ═══════════════════════ BANNER ═══════════════════════ -->
 <div align="center">
-
-```
-███████╗ █████╗ ███╗   ███╗██╗   ██╗███████╗██╗
-██╔════╝██╔══██╗████╗ ████║██║   ██║██╔════╝██║
-███████╗███████║██╔████╔██║██║   ██║█████╗  ██║
-╚════██║██╔══██║██║╚██╔╝██║██║   ██║██╔══╝  ██║
-███████║██║  ██║██║ ╚═╝ ██║╚██████╔╝███████╗███████╗
-╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝ ╚═════╝ ╚══════╝╚══════╝
-```
-
-### Full Stack Developer · Community Builder · International Affairs
-
-*Building systems that work in Lagos, Kigali, and everywhere in between.*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oluwagbemileke-adesiyan-8b2238272)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gbemilekeadesiyan@gmail.com)
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,50:10B981,100:2DD4BF&height=220&section=header&text=Oluwagbemileke%20Samuel%20Adesiyan&fontSize=40&fontColor=F0FDFA&fontAlignY=32&desc=Computer%20Information%20Science%20%7C%20Security%20%7C%20Cloud%20%7C%20AI&descSize=16&descAlignY=52&animation=fadeIn">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:34D399,50:2DD4BF,100:5EEAD4&height=220&section=header&text=Oluwagbemileke%20Samuel%20Adesiyan&fontSize=40&fontColor=043A32&fontAlignY=32&desc=Computer%20Information%20Science%20%7C%20Security%20%7C%20Cloud%20%7C%20AI&descSize=16&descAlignY=52&animation=fadeIn">
+    <img alt="Samuel Adesiyan banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,50:10B981,100:2DD4BF&height=220&section=header&text=Oluwagbemileke%20Samuel%20Adesiyan&fontSize=40&fontColor=F0FDFA&fontAlignY=32&desc=Computer%20Information%20Science%20%7C%20Security%20%7C%20Cloud%20%7C%20AI&descSize=16&descAlignY=52&animation=fadeIn">
+  </picture>
 </div>
 
----
+<br>
 
-## About Me
+<!-- ═══════════════════════ TITLE ═══════════════════════ -->
+<h1 align="center">
+  Hey there, I'm Samuel
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32px" height="32px">
+</h1>
 
-I'm a Computer Information Science freshman at **Livingstone College** in Salisbury, NC — building at the intersection of technology and community impact.
+<!-- ═══════════════════════ TYPING ═══════════════════════ -->
+<div align="center">
+  <a href="https://github.com/gbemilekeadesiyan-a11y">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=10B981&center=true&vCenter=true&width=620&lines=Computer+Information+Science+%40+Livingstone+College;Python+%7C+Cloud+%7C+Cybersecurity+%7C+AI;Building+Epiphany%2C+a+super-app+for+Rwanda;Lagos+%E2%86%92+Kigali+%E2%86%92+Salisbury%2C+NC;CompTIA+Security%2B+in+progress" alt="Typing SVG">
+  </a>
+</div>
 
-I grew up across Nigeria, Rwanda, and the US, which means I don't just build for one kind of user. I build for the person with slow internet in Kigali and the enterprise client in New York. That perspective shapes everything I write.
+<br>
 
-Outside of code I founded **Epiphany** — a community super-app for Rwanda covering mobility, delivery, tourism, and payments — under my think tank **Mind Storms**. It placed 3rd out of 50 at a pitch competition. I also serve as Academic Representative of the **African Music Society** and am a member of **BPIA** (Black Professionals in International Affairs).
+<!-- ═══════════════════════ BADGES ═══════════════════════ -->
+<div align="center">
+  <a href="https://github.com/gbemilekeadesiyan-a11y?tab=followers">
+    <img src="https://img.shields.io/github/followers/gbemilekeadesiyan-a11y?label=Followers&style=for-the-badge&color=10B981&labelColor=0F766E&logo=github&logoColor=white" alt="Followers">
+  </a>
+  <a href="https://github.com/gbemilekeadesiyan-a11y?tab=repositories">
+    <img src="https://img.shields.io/github/stars/gbemilekeadesiyan-a11y?label=Stars&style=for-the-badge&color=2DD4BF&labelColor=0F766E&logo=apachespark&logoColor=white" alt="Stars">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=gbemilekeadesiyan-a11y&label=Profile+Views&style=for-the-badge&color=34D399" alt="Profile views">
+</div>
 
----
+<br>
 
-## Tech Stack
+<!-- ═══════════════════════ ABOUT ═══════════════════════ -->
+<h2 align="center">About Me</h2>
 
-```python
-samuel = {
-    "languages":   ["Python", "JavaScript", "SQL"],
-    "frameworks":  ["Flask", "React"],
-    "databases":   ["PostgreSQL", "Redis"],
-    "devops":      ["Docker", "Nginx", "GitHub Actions", "CI/CD"],
-    "monitoring":  ["Prometheus", "Grafana", "Sentry"],
-    "tools":       ["Git", "VS Code", "Jupyter", "Pandas"],
-    "learning":    ["Production Engineering", "SRE", "Cloud Infrastructure"]
-}
-```
+<table align="center" width="100%">
+  <tr>
+    <td width="65%" valign="top">
 
----
+I'm a Computer Information Science major at **Livingstone College**, originally from **Nigeria**, shaped by time in **Rwanda**, now building from **North Carolina**.
 
-## Featured Projects 
+I like problems that sit where infrastructure meets people. Most of what I build comes from noticing something broken in a place I've lived and deciding to take a run at it.
 
-### 🗳️ [dēmos — Consensus & Voting Platform](https://github.com/gbemilekeadesiyan-a11y/Demos)
-> *"Where consensus finds its voice." · Frontend Lead · In active development*
- 
-A workspace-based platform for groups that have to decide something together — a company running leadership elections, or a family deciding where to eat. Admins open public or private sessions, control exactly who can see and vote, and release results in whatever format the decision calls for.
- 
-I lead the React frontend on an all-coder team, building against API contracts agreed with backend so both sides ship in parallel instead of waiting on each other.
- 
-- **Slack-style workspaces** with member roles, invite codes, and admin-configurable permissions
-- **Public and private sessions** moving through a Draft → Open → Closed → Results Released lifecycle
-- **Granular access control** — admins grant voting rights by individual, department, or entire workspace
-- **Configurable result presentation** — bar, pie, or leaderboard, with a signature custom template in progress
-- **QR code and link sharing** with code-gated entry for private sessions
-- **Glassmorphic dark UI** — frosted cards, backdrop blur, glowing borders
-`React` `JavaScript` `Vite` `Node.js` `Figma` `Oxlint`
- 
----
+- Building **Epiphany**, a super-app for Rwanda covering tourism, events, mobility, payments and marketplace
+- Building **dēmos**, a workspace-based consensus and voting platform
+- Ran a **cybersecurity externship with Hydroficient**, using Isolation Forest for anomaly detection on sensor data
+- Certified in **AWS** and **Python & Data Science (University of Michigan)**, with **CompTIA Security+** in progress
+- Alum of **CodePath** and the **MLH Production Engineering Hackathon**
+- Off-screen: guitar, long arguments about philosophy and theology, and photo editing I've been doing since middle school
 
+> Currently looking for **summer internships** in software, cloud, or security engineering.
 
-### 🔗 [MLH PE Hackathon 2026](https://github.com/pk504b/mlh-pe-hackathon-2026)
-> *Production Engineering Hackathon — URL Shortener API built to survive production*
+  </td>
+    <td width="35%" valign="top" align="center">
+      <img src="https://raw.githubusercontent.com/gbemilekeadesiyan-a11y/gbemilekeadesiyan-a11y/main/assets/profile.png" width="100%" alt="Samuel Adesiyan">
+      <br>
+      <sub><i>Swap this for a photo or illustration of your own. Drop it at <code>assets/profile.png</code> in this repo.</i></sub>
+    </td>
+  </tr>
+</table>
 
-A production-ready Flask API built for the MLH Production Engineering Hackathon. Competed against teams to keep a service alive through load tests, outages, and chaos engineering challenges.
+<br>
 
-- **95% test coverage** across 10 automated tests
-- **500 concurrent users** handled with <5% error rate via Docker + Nginx load balancing
-- **Redis caching** cut response times from 280ms → 33ms
-- **Prometheus + Grafana** dashboard with real-time observability
-- **Discord alerts** firing within seconds of failure detection
-- **GitHub Actions CI/CD** blocking broken code from reaching main
-
-`Python` `Flask` `PostgreSQL` `Docker` `Redis` `Nginx` `Prometheus` `Grafana`
-
----
-
-### 🌍 [Epiphany — Rwanda Community Super-App](https://github.com/gbemilekeadesiyan-a11y/epiphany-rw-connect)
-> *3rd place out of 50 teams at pitch competition · Mind Storms Think Tank · Live on Vercel*
-
-A community super-app designed for Rwanda covering mobility, delivery, tourism, and payments. Built from the ground up with local infrastructure constraints in mind — serving users across Kigali and beyond.
-
-`React` `TypeScript` `Supabase` `PostgreSQL` `Tailwind CSS` `Vite` `Vercel`
-
----
-
-### 🔐 [Hydroficient IoT Cyber Defense Externship](https://github.com/gbemilekeadesiyan-a11y/Externship-Hydroficient-Cybersecurity-Lessons)
-> *Extern.com · IoT Cybersecurity · Attacker → Defender*
-
-Placed as a cybersecurity engineer protecting a live IoT smart water management platform. Intercepted unprotected data streams, spoofed device commands, and identified real vulnerabilities — then switched sides to encrypt pipelines, lock down device access, and build AI-driven anomaly detection.
-
-Delivered a **Security Improvement Report** with risk insights, documentation, and design recommendations for production use.
-
-`Python` `MQTT` `IoT Security` `Encryption` `AI Anomaly Detection` `Cybersecurity`
-
----
-
-## Currently
-
-- 📚 Freshman @ Livingstone College — Computer Information Science
-- 🔨 Building production engineering skills through MLH hackathons
-- 🌱 Learning Docker, cloud deployment, and distributed systems
-- 🎯 Targeting Summer 2026 fellowships and internships
-- 🎵 Academic Representative — African Music Society
-
----
-
-
-
+<!-- ═══════════════════════ TECH STACK ═══════════════════════ -->
+<h2 align="center">Tech Stack</h2>
 
 <div align="center">
 
-*"The best systems are invisible — they just work."*
+  <p><b>Languages & Backend</b></p>
+  <img src="https://skillicons.dev/icons?i=py,flask,fastapi,js,html,css&theme=dark" alt="Languages and backend">
 
-**Open to fellowships, internships, and collaborations that matter.**
+  <p><b>Data & Infrastructure</b></p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,aws,docker,linux&theme=dark" alt="Data and infrastructure">
 
+  <p><b>Tooling & Design</b></p>
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,figma,ps&theme=dark" alt="Tooling and design">
+
+</div>
+
+<br>
+
+<!-- ═══════════════════════ STATS ═══════════════════════ -->
+<h2 align="center">GitHub Activity</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gbemilekeadesiyan-a11y&show_icons=true&hide_border=true&bg_color=0D1117&title_color=2DD4BF&icon_color=34D399&text_color=A7F3D0&ring_color=10B981" height="170" alt="GitHub stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gbemilekeadesiyan-a11y&hide_border=true&background=0D1117&stroke=10B981&ring=2DD4BF&fire=34D399&currStreakLabel=2DD4BF&sideLabels=A7F3D0&currStreakNum=F0FDFA&sideNums=F0FDFA&dates=5EEAD4" height="170" alt="GitHub streak">
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gbemilekeadesiyan-a11y&bg_color=0D1117&color=2DD4BF&line=10B981&point=A7F3D0&area=true&hide_border=true" width="95%" alt="Contribution activity graph">
+</div>
+
+<br>
+
+<!-- ═══════════════════════ SNAKE ═══════════════════════ -->
+<h2 align="center">Contribution Snake</h2>
+
+<!--
+  SETUP (one time):
+  1. Create the file .github/workflows/snake.yml in THIS repo.
+  2. Paste in the workflow from https://github.com/Platane/snk
+     (use the "output" step to push to the `output` branch).
+  3. Run the Action once from the Actions tab.
+  The two <source> URLs below then start resolving.
+-->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gbemilekeadesiyan-a11y/gbemilekeadesiyan-a11y/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gbemilekeadesiyan-a11y/gbemilekeadesiyan-a11y/output/github-snake.svg">
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/gbemilekeadesiyan-a11y/gbemilekeadesiyan-a11y/output/github-snake.svg">
+  </picture>
+</div>
+
+<br>
+
+<!-- ═══════════════════════ CONNECT ═══════════════════════ -->
+<h2 align="center">Let's Connect</h2>
+
+<div align="center">
+  <a href="https://linkedin.com/in/[YOUR_LINKEDIN]">
+    <img src="https://img.shields.io/badge/LinkedIn-0F766E?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://x.com/[YOUR_X_HANDLE]">
+    <img src="https://img.shields.io/badge/X-134E4A?style=for-the-badge&logo=x&logoColor=white" alt="X">
+  </a>
+  <a href="https://instagram.com/[YOUR_INSTAGRAM]">
+    <img src="https://img.shields.io/badge/Instagram-10B981?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://tiktok.com/@[YOUR_TIKTOK]">
+    <img src="https://img.shields.io/badge/TikTok-2DD4BF?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
+  </a>
+  <a href="https://youtube.com/@[YOUR_YOUTUBE]">
+    <img src="https://img.shields.io/badge/YouTube-34D399?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+  </a>
+  <a href="mailto:gbemilekeadesiyan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-5EEAD4?style=for-the-badge&logo=gmail&logoColor=043A32" alt="Email">
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <i>"The best way to predict the future is to build it."</i>
+</div>
+
+<br>
+
+<!-- ═══════════════════════ FOOTER ═══════════════════════ -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2DD4BF,50:10B981,100:0F766E&height=140&section=footer" width="100%" alt="Footer">
 </div>
